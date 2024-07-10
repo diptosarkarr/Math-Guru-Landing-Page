@@ -5,7 +5,7 @@
 }
 
 main {
-  background-image: url("./images/hero_background.jpg");
+  background:url("./images/hero_background.jpg");
   background-size: cover;
 }
 
